@@ -9,4 +9,8 @@ testando aquiiiiii
 ------------------- BRANCH/TESTE --------------------------------------
 
 1 - Irei fazer um commit e depois darei um marge para Main
-2 - Este registro é um commit na Main para ficar a frente 
+
+2 - Este commit é referente a branch/teste para ficar a frente da main porém antes foi dado um commit na main (BRANCH/TESTE)
+3 - Mais um commit sem atualizar a 'Main' para simular um conflito para resolver voltanto no 'git log' (BRANCH/TESTE)
+
+2 - Este registro é um commit na Main para ficar a frente (MAIN)
