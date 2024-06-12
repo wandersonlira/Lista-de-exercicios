@@ -10,3 +10,4 @@ testando aquiiiiii
 
 1 - Irei fazer um commit e depois darei um marge para Main
 2 - Este commit é referente a branch/teste para ficar a frente da main porém antes foi dado um commit na main
+3 - Mais um commit sem atualizar a 'Main' para simular um conflito para resolver voltanto no 'git log'
