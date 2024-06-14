@@ -14,3 +14,5 @@ testando aquiiiiii
 3 - Mais um commit sem atualizar a 'Main' para simular um conflito para resolver voltanto no 'git log' (BRANCH/TESTE)
 
 2 - Este registro é um commit na Main para ficar a frente (MAIN)
+
+4.1 - commit 4.1 para ficar na frente da main (BRANCH/TESTE)
